@@ -1,0 +1,20 @@
+[
+  {
+    "player": "Luka Dončić",
+    "points": 32,
+    "rebounds": 9,
+    "assists": 8
+  },
+  {
+    "player": "Stephen Curry",
+    "points": 30,
+    "rebounds": 5,
+    "assists": 6
+  },
+  {
+    "player": "LeBron James",
+    "points": 28,
+    "rebounds": 7,
+    "assists": 9
+  }
+]
